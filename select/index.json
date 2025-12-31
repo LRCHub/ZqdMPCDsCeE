@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "R",
+  "base_artist": "Roselia",
+  "createdAt": "2025-12-31T06:03:26.994206Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "N.G.R.I (Bloodstain)",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_N.G.R.I_(Bloodstain)_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "C-O-U-N-T-R-Y",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/02_C-O-U-N-T-R-Y_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "C-O-U-N-T-R-Y (Album Version)",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/03_C-O-U-N-T-R-Y_(Album_Version)_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "D-I-V-O-R-C-E",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/04_D-I-V-O-R-C-E_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "D-I-V-O-R-C-E (Album Version)",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/05_D-I-V-O-R-C-E_(Album_Version)_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "T-R-O-U-B-L-E",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/06_T-R-O-U-B-L-E_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "T-R-O-U-B-L-E (Remastered LP Version)",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/07_T-R-O-U-B-L-E_(Remastered_LP_Version)_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "We R who we R [Kesha Cover]",
+      "artist": "Woe, Is Me",
+      "has_synced": false,
+      "path": "select/08_We_R_who_we_R_[Kesha_Cover]_Woe,_Is_Me.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "별별별 (☆★☆) [Acoustic R&B Version]",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/09_별별별_(☆★☆)_[Acoustic_R&B_Version]_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "별별별 (☆★☆) (Acoustic R&B Ver.)",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/10_별별별_(☆★☆)_(Acoustic_R&B_Ver.)_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Class President (prod. Uncle R",
+      "artist": "Mac Miller",
+      "has_synced": true,
+      "path": "select/11_Class_President_(prod._Uncle_R_Mac_Miller.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dats What I'm Talkin About - feat. R. Kelly Amended",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/12_Dats_What_I'm_Talkin_About_-_feat._R._Kelly_Amended_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dats What I'm Talkin About (feat. R. Kelly)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/13_Dats_What_I'm_Talkin_About_(feat._R._Kelly)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "G'd up (feat. Method Man, R-Mean and Mzee Jones)",
+      "artist": "Wu-Tang Clan feat. Method Man, R-Mean & Mzee Jones",
+      "has_synced": false,
+      "path": "select/14_G'd_up_(feat._Method_Man,_R-Mean_and_Mzee_Jones)_Wu-Tang_Clan_feat._Method_Man,_R-Mean_&_Mzee_Jones.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "G'd up (feat. Method Man, R-Mean and Mzee Jones)",
+      "artist": "Wu-Tang Clan",
+      "has_synced": false,
+      "path": "select/15_G'd_up_(feat._Method_Man,_R-Mean_and_Mzee_Jones)_Wu-Tang_Clan.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ghetto Children (feat. N.E.R.D.\u0000Marc Dorsey)",
+      "artist": "Kelis",
+      "has_synced": false,
+      "path": "select/16_Ghetto_Children_(feat._N.E.R.D.\u0000Marc_Dorsey)_Kelis.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Come and See Me (feat. Big K.R.I.T.)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/17_Come_and_See_Me_(feat._Big_K.R.I.T.)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Woozy (feat. R. Kelly)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/18_Woozy_(feat._R._Kelly)_Ludacris.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "R",
+      "artist": "Roselia",
+      "has_synced": false,
+      "path": "select/pl_01_R_Roselia.txt"
+    }
+  ]
+}
